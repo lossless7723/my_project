@@ -1,2 +1,0 @@
-Hello Git
-Version 2.0
